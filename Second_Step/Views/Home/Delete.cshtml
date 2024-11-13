@@ -1,0 +1,15 @@
+﻿@model Second_Step.Models.Employee
+
+@{
+    ViewData["Title"] = "Delete Employee";
+}
+
+<h1>Delete Employee</h1>
+
+<p>Are you sure you want to delete the employee <strong>@Model.Forenames @Model.Surname</strong> with payroll number <strong>@Model.Payroll_Number</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="payrollNumber" value="@Model.Payroll_Number" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Cancel</a>
+</form>

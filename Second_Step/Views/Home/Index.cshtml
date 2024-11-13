@@ -1,0 +1,78 @@
+﻿@model List<Second_Step.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee Search";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Employee List</h1>
+    <p>Here is the list of all employees:</p>
+</div>
+
+<form asp-action="Search" method="get">
+    <div class="form-actions no-color">
+        <p>
+            <label>
+                Find by forenames:
+                <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" class="form-control d-inline w-auto" />
+            </label>
+            <input type="submit" value="Search" class="btn btn-primary" />
+            <a asp-action="Search" class="btn btn-secondary">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <table id="employeeTable" class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Payroll Number</th>
+                <th>Forenames</th>
+                <th>Surname</th>
+                <th>Date of Birth</th>
+                <th>Telephone</th>
+                <th>Mobile</th>
+                <th>Address</th>
+                <th>Email</th>
+                <th>Start Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>@employee.Payroll_Number</td>
+                    <td>@employee.Forenames</td>
+                    <td>@employee.Surname</td>
+                    <td>@employee.Date_of_Birth.ToShortDateString()</td>
+                    <td>@employee.Telephone</td>
+                    <td>@employee.Mobile</td>
+                    <td>@employee.Address</td>
+                    <td>@employee.EMail_Home</td>
+                    <td>@employee.Start_Date.ToShortDateString()</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@employee.Id" class="btn btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@employee.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No employees found.</p>
+}
+
+<script>
+    $(document).ready(function () {
+        $('#employeeTable').DataTable({
+            "paging": true,
+            "searching": true,
+            "ordering": true,
+            "autoWidth": false
+        });
+    });
+</script>
