@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Second_Step\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\data\\employeerepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\data\\employeerepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\home\\uploadcsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\home\\uploadcsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\migrations\\20241112050739_employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\migrations\\20241112050739_employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|d:\\second_step\\second_step\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED445651-6674-455C-B692-AB61F970E2CF}|Second_Step\\Second_Step.csproj|solutionrelative:second_step\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepos.cs",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Data\\EmployeeRepos.cs",
+              "RelativeDocumentMoniker": "Second_Step\\Data\\EmployeeRepos.cs",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Data\\EmployeeRepos.cs",
+              "RelativeToolTip": "Second_Step\\Data\\EmployeeRepos.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAMwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:45:07.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T11:21:03.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvycAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T11:20:17.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Second_Step\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Second_Step\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:54:33.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T05:44:02.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Second_Step\\Models\\Employee.cs",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Models\\Employee.cs",
+              "RelativeToolTip": "Second_Step\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA2wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:58:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Second_Step\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Second_Step\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAMwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:12:42.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:38:23.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:38:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Second_Step\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Second_Step\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:28:59.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Program.cs",
+              "RelativeDocumentMoniker": "Second_Step\\Program.cs",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Program.cs",
+              "RelativeToolTip": "Second_Step\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:50:35.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwB8AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T05:11:01.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadCsv.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Home\\UploadCsv.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Home\\UploadCsv.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Home\\UploadCsv.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Home\\UploadCsv.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T05:22:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:38:30.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Second_Step\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Second_Step\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:38:36.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241112050739_Employes.cs",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\Migrations\\20241112050739_Employes.cs",
+              "RelativeDocumentMoniker": "Second_Step\\Migrations\\20241112050739_Employes.cs",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\Migrations\\20241112050739_Employes.cs",
+              "RelativeToolTip": "Second_Step\\Migrations\\20241112050739_Employes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:07:40.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Second_Step\\Second_Step\\appsettings.json",
+              "RelativeDocumentMoniker": "Second_Step\\appsettings.json",
+              "ToolTip": "D:\\Second_Step\\Second_Step\\appsettings.json",
+              "RelativeToolTip": "Second_Step\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T04:50:36.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
